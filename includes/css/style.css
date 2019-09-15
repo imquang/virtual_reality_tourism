@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url("/assets/font/SF-Pro-Display-Regular.otf");
+}
+
+* {
+    font-family: 'SF Pro Display'
+}
+
+/* Style header */
+.site-header {
+    max-height: 5.375rem;
+    background: #ffffff;
+}
+
+.main-header {
+    padding: 1.25rem 0;
+    background: #ffffff;
+}
+
+.navbar-brand {
+    margin: 0 !important;
+}
+
+.navbar-nav {
+    margin-left: 5.625rem;
+}
+
+.nav-item {
+    margin-right: 3.125rem;
+}
+
+.nav-link {
+    padding: 0.3125rem !important;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #202124 !important;
+    font-size: 0.875rem;
+}
+
+.search-icon {
+    margin-right: 1.5625rem;
+}
+
+.btn-login {
+    padding: 0.3125rem 0 0.3125rem 0.3125rem !important;
+    border: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #202124 !important;
+    font-size: 0.875rem;
+}

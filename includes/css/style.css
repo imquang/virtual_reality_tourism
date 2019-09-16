@@ -280,3 +280,8 @@
     font-weight: bold;
     color: #202124;
 }
+
+/* Style blog */
+.blog {
+    margin-bottom: 5rem;
+}
